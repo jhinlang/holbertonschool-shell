@@ -1,0 +1,3 @@
+#!/bin/bash
+export DECIMAL="255"
+printf "%/x" DECIMAL
