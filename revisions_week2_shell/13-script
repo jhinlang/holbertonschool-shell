@@ -1,0 +1,8 @@
+#!/bin/bash
+echo $USER
+echo $PATH | tr ':' '\n' | wc -l
+export TRUEKNOWLEDGE="42
+echo $(($(TRUEKNOWLEDGE)+128))
+export NUM="4,12567"
+prinf "%/2 NUM"
+echo "Révisions terminées"
